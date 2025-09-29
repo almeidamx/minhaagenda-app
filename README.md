@@ -1,6 +1,6 @@
-# MinhaAgenda App
+# MinhaAgenda - Sistema de Gestão para Psicopedagogos
 
-Este repositório apresenta a entrega do MVP da Sprint Gestão Ágil de Projetos e Produtos para o projeto MinhaAgenda - uma aplicação pessoal de agenda.
+Este repositório apresenta a entrega do MVP para o projeto MinhaAgenda — um agendador de atendimentos e sistema de controle financeiro pensado para Fabiana, psicopedagoga autônoma. O foco deste MVP é cadastrar clientes, agendar atendimentos, registrar contas a receber e apresentar um dashboard com métricas essenciais.
 
 ## Estrutura do Repositório
 
@@ -9,22 +9,8 @@ Este repositório está organizado conforme os requisitos da entrega e contém o
 ### Arquivos na Raiz
 
 - **`canvas-url.txt`** - Contém a URL do board do Miro com o MVP Canvas e todas as etapas da Lean Inception
-- **`product-backlog.pdf`** - Backlog do produto criado no Jira, incluindo épicos, features, histórias de usuário, Definition of Ready e Definition of Done
-- **`sprint-backlog.pdf`** - Backlog da sprint com histórias de usuário detalhadas, estimativas e critérios de aceitação
+- **`backlog-minhaagenda.pdf`** - Backlog do produto criado no Jira, incluindo épicos, histórias de usuário, Definition of Ready e Definition of Done
 - **`video-apresentacao.*`** - Vídeo de showcase do projeto (2-4 minutos)
-
-### Diretórios
-
-- **`wireframes/`** - Protótipos de interface da primeira sprint salvos como imagens do Figma
-
-## Sobre o Projeto MinhaAgenda
-
-O MinhaAgenda é uma aplicação web completa de agenda pessoal que visa facilitar o gerenciamento de compromissos e tarefas do dia a dia dos usuários. O projeto é estruturado com arquitetura separada:
-
-- **Backend** (`minhaagenda-backend`): API REST responsável pelo gerenciamento de dados, autenticação e lógica de negócio
-- **Frontend** (`minhaagenda-frontend`): Interface web responsiva para interação do usuário
-
-A aplicação permite aos usuários criar, editar, visualizar e gerenciar seus eventos e compromissos de forma intuitiva e eficiente.
 
 ## Componentes da Entrega
 
@@ -38,12 +24,12 @@ A aplicação permite aos usuários criar, editar, visualizar e gerenciar seus e
 - Inclui épicos, features e histórias de usuário
 - Contém ao menos um requisito não funcional
 - Definition of Ready e Definition of Done incluídos
-- Disponível no arquivo `product-backlog.pdf`
+- Disponível no arquivo `backlog-minhaagenda.pdf`
 
 ### 3. Backlog da Sprint (1,5 pts)
 - Histórias de usuário detalhadas com estimativas
 - Critérios de aceitação definidos
-- Disponível no arquivo `sprint-backlog.pdf`
+- Disponível no arquivo `backlog-minhaagenda.pdf` (Detaalhamento do Sprint 1)
 
 ### 4. Protótipos de Interface (2,0 pts)
 - Wireframes da primeira sprint
@@ -55,16 +41,4 @@ A aplicação permite aos usuários criar, editar, visualizar e gerenciar seus e
 - Apresentação dos principais componentes da entrega
 - Arquivo disponível na raiz do repositório
 
-## Como Acessar os Artefatos
 
-1. **MVP Canvas**: Acesse a URL contida no arquivo `canvas-url.txt`
-2. **Backlogs**: Visualize os arquivos PDF na raiz do repositório
-3. **Protótipos**: Navegue pelo diretório `wireframes/`
-4. **Vídeo**: Execute o arquivo de vídeo na raiz do repositório
-
-## Tecnologias e Ferramentas Utilizadas
-
-- **Miro**: Para Lean Inception e MVP Canvas
-- **Jira**: Para criação e gestão dos backlogs
-- **Figma**: Para criação dos protótipos de interface
-- **GitHub**: Para versionamento e entrega do projeto
