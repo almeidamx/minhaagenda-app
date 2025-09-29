@@ -39,6 +39,6 @@ Este repositório está organizado conforme os requisitos da entrega e contém o
 ### 5. Vídeo de Apresentação (2,0 pts)
 - Showcase do projeto (2-4 minutos)
 - Apresentação dos principais componentes da entrega
-- Arquivo disponível na raiz do repositório
+- URL disponível no arquivo `video-apresentacao-url.txt`
 
 
