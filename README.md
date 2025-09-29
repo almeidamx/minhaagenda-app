@@ -10,7 +10,7 @@ Este repositório está organizado conforme os requisitos da entrega e contém o
 
 - **`canvas-url.txt`** - Contém a URL do board do Miro com o MVP Canvas e todas as etapas da Lean Inception
 - **`backlog-minhaagenda.pdf`** - Backlog do produto criado no Jira, incluindo épicos, histórias de usuário, Definition of Ready e Definition of Done
-- **`video-apresentacao.*`** - Vídeo de showcase do projeto (2-4 minutos)
+- **`video-apresentacao-url.txt*`** - Contém a URL do Vídeo de showcase do projeto (2-4 minutos)
 
 ## Componentes da Entrega
 
