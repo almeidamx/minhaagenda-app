@@ -21,7 +21,7 @@ Este repositório está organizado conforme os requisitos da entrega e contém o
 
 ### 2. Backlog do Produto (1,5 pts)
 - Criado na ferramenta Jira
-- Inclui épicos, features e histórias de usuário
+- Inclui épicos e histórias de usuário
 - Contém ao menos um requisito não funcional
 - Definition of Ready e Definition of Done incluídos
 - Disponível no arquivo `backlog-minhaagenda.pdf`
@@ -29,7 +29,7 @@ Este repositório está organizado conforme os requisitos da entrega e contém o
 ### 3. Backlog da Sprint (1,5 pts)
 - Histórias de usuário detalhadas com estimativas
 - Critérios de aceitação definidos
-- Disponível no arquivo `backlog-minhaagenda.pdf` (Detaalhamento do Sprint 1)
+- Disponível no arquivo `backlog-minhaagenda.pdf` (Detalhamento do Sprint 1)
 
 ### 4. Protótipos de Interface (2,0 pts)
 - Wireframes da primeira sprint
